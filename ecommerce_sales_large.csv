@@ -1,0 +1,1001 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate
+1001,Ronald Harris,Lentils,Grocery,2,280.51,2024-12-16
+1002,Jennifer Skinner,Boots,Footwear,2,8.86,2024-09-28
+1003,Christopher Briggs,Smartwatch,Electronics,1,642.64,2025-01-18
+1004,Brittany Pierce,Perfume,Beauty,1,209.19,2024-10-17
+1005,Ashley Johnson,T-shirt,Apparel,3,407.43,2024-08-30
+1006,Jennifer Andersen,Headphones,Electronics,3,853.6,2025-01-25
+1007,Juan Hubbard,Coffee Maker,Home,2,368.18,2025-03-08
+1008,Mr. Juan Hickman,Lipstick,Beauty,2,571.4,2025-02-24
+1009,John Franklin,Laptop,Electronics,1,15.41,2025-02-12
+1010,Kelly Nelson,Toaster,Home,2,1038.27,2025-03-11
+1011,Debra Scott,Tablet,Electronics,2,319.97,2024-11-28
+1012,Lori Weaver,Lipstick,Beauty,4,264.12,2024-10-02
+1013,Jason Williams,Coffee Maker,Home,2,967.26,2024-10-30
+1014,Rhonda Ferguson,Juice,Grocery,3,280.55,2024-08-29
+1015,Rebekah Parker,Cookbook,Books,4,163.88,2024-12-10
+1016,Aimee Frazier,Cookbook,Books,1,1426.76,2024-08-17
+1017,Nicole Kennedy,Coffee Maker,Home,1,156.81,2024-11-02
+1018,Susan Wolf,Lego Set,Toys,1,362.37,2025-05-24
+1019,Jordan Phillips,Rice,Grocery,4,1210.89,2024-07-24
+1020,Michael Bennett,Cookbook,Books,1,561.37,2024-11-20
+1021,Shane Landry,Laptop,Electronics,2,1141.2,2024-12-13
+1022,Daniel Armstrong,Vacuum Cleaner,Home,1,1299.24,2024-09-07
+1023,Anthony Boyd,Biography,Books,4,1080.04,2025-03-26
+1024,Walter Oneill,Lipstick,Beauty,2,176.59,2025-07-05
+1025,Todd Greene,Vacuum Cleaner,Home,2,1074.19,2024-12-23
+1026,Brandon Obrien,Perfume,Beauty,3,961.05,2025-07-04
+1027,Ronald Edwards,Sneakers,Footwear,4,767.31,2025-02-08
+1028,Ashley Davila,Biography,Books,1,864.26,2025-03-20
+1029,Christopher Johnson,Headphones,Electronics,4,884.37,2025-07-03
+1030,Lorraine Berg,Cookbook,Books,4,131.49,2024-07-18
+1031,Samantha Hall,Boots,Footwear,2,127.07,2024-10-14
+1032,Kenneth Norris,Smartwatch,Electronics,4,1080.62,2024-10-06
+1033,Marcus Bailey,Jeans,Apparel,4,363.5,2025-06-06
+1034,Lee Ross,Toaster,Home,5,369.95,2024-09-09
+1035,Angela Khan,Jacket,Apparel,5,450.44,2025-04-14
+1036,Charles Garza,Jacket,Apparel,1,1212.23,2024-12-10
+1037,Mark Hicks,Cookbook,Books,3,850.29,2025-03-21
+1038,Sabrina Brewer,Juice,Grocery,3,422.98,2025-02-28
+1039,April Mendoza,Puzzle,Toys,3,1425.79,2025-06-22
+1040,Brandon Garcia,Boots,Footwear,3,1152.9,2025-02-20
+1041,Brandy Williams,Pasta,Grocery,5,319.87,2025-05-15
+1042,Robert Ferguson,Self-help,Books,1,769.43,2025-05-31
+1043,Brian Dixon,Laptop,Electronics,1,51.28,2024-10-21
+1044,Lori Walker,Comics,Books,4,611.69,2025-07-14
+1045,Tina Mccarthy,Vacuum Cleaner,Home,2,1098.67,2025-03-03
+1046,Monica Adams,Juice,Grocery,5,1395.51,2025-02-16
+1047,Keith Hoffman,Cookbook,Books,2,86.74,2024-12-10
+1048,Grant Miller,Board Game,Toys,3,916.07,2025-05-09
+1049,Samantha Hansen,Moisturizer,Beauty,2,265.47,2025-07-09
+1050,Steven Robbins,Doll,Toys,5,108.53,2025-02-06
+1051,Jimmy Wilson,Toaster,Home,4,873.37,2024-08-07
+1052,Tommy Parker,Novel,Books,5,494.42,2024-12-10
+1053,Carrie Smith,Puzzle,Toys,2,411.61,2024-07-22
+1054,Heather Hanson,Biography,Books,4,1191.16,2024-12-04
+1055,Brianna Ali,Pasta,Grocery,2,1259.86,2025-05-26
+1056,Lauren Briggs,Blender,Home,4,1315.7,2024-09-06
+1057,Alexis Ward,Boots,Footwear,1,1406.45,2025-07-09
+1058,Thomas Ramirez,Lentils,Grocery,1,1284.05,2025-01-12
+1059,Brittany Downs,Smartwatch,Electronics,5,357.08,2025-05-26
+1060,Cindy Padilla,Juice,Grocery,5,48.56,2024-12-12
+1061,Steven Romero,Self-help,Books,1,1048.82,2024-10-24
+1062,Jaime Moore,Sandals,Footwear,3,978.29,2024-11-08
+1063,Brandon Strickland,Shoes,Footwear,2,1155.29,2025-01-31
+1064,Kelly Callahan,Toaster,Home,1,200.25,2025-03-11
+1065,Valerie Ross,Novel,Books,4,942.69,2024-08-06
+1066,Melissa Cardenas,Perfume,Beauty,4,624.94,2024-07-31
+1067,Kara Henry,Shoes,Footwear,1,1046.38,2024-09-10
+1068,Jessica Smith,Biography,Books,4,384.35,2024-09-25
+1069,Edward Potter,Jeans,Apparel,5,1262.72,2025-03-15
+1070,Angela Williams,Smartwatch,Electronics,3,591.88,2025-03-02
+1071,Drew Johnson,Cookbook,Books,3,730.9,2024-07-19
+1072,Isaiah Hansen,Cookbook,Books,4,1076.61,2024-10-12
+1073,Julian Brown,Rice,Grocery,5,353.02,2025-01-28
+1074,Lisa Lang,Self-help,Books,1,1474.74,2024-11-02
+1075,Bailey Ross,Pasta,Grocery,5,433.77,2025-01-17
+1076,Robert Harris,Novel,Books,4,958.29,2025-01-05
+1077,Kendra Maxwell,Comics,Books,5,802.53,2025-07-07
+1078,William Schmidt,Sneakers,Footwear,2,114.04,2024-09-10
+1079,Kyle Rios,Smartphone,Electronics,3,921.84,2024-10-31
+1080,Albert Wright,Board Game,Toys,4,1271.41,2025-03-22
+1081,Edward Kelley,Cookbook,Books,2,567.56,2024-11-27
+1082,Shane Tran,Dress,Apparel,5,1229.25,2024-08-31
+1083,David Carrillo,Toaster,Home,2,775.84,2024-12-16
+1084,Lisa Beard,Sandals,Footwear,1,1077.11,2024-10-24
+1085,Nicholas Sawyer,Lamp,Home,3,1313.79,2024-11-18
+1086,Ryan Brown,Jacket,Apparel,2,1023.22,2024-07-26
+1087,Melissa Torres,Snacks,Grocery,5,573.52,2025-04-25
+1088,Brian Aguirre,Sandals,Footwear,2,994.78,2024-08-05
+1089,Zachary Page,Juice,Grocery,4,1476.3,2025-01-22
+1090,Matthew Tucker,Pasta,Grocery,2,163.09,2025-04-20
+1091,Jessica Villanueva,Slippers,Footwear,2,1022.22,2025-02-11
+1092,Brian White,Blender,Home,5,766.48,2024-07-24
+1093,Jessica Moore,Blender,Home,4,840.84,2025-01-03
+1094,Mario Hughes,Shirt,Apparel,5,639.58,2025-02-23
+1095,Jennifer Clark,Jeans,Apparel,4,745.47,2024-09-22
+1096,Jorge Hoffman,Snacks,Grocery,2,198.13,2024-11-25
+1097,April Johnson,Smartwatch,Electronics,5,122.44,2024-09-17
+1098,Danny Rivera,Dress,Apparel,4,1352.55,2024-09-26
+1099,Brandon Deleon,Jeans,Apparel,2,205.81,2024-10-08
+1100,Jordan Gamble,Slippers,Footwear,2,599.35,2024-08-04
+1101,Sara Kelley,Action Figure,Toys,3,1384.62,2025-02-04
+1102,Nathaniel Gardner,Lamp,Home,1,199.82,2025-03-06
+1103,Patrick Vargas,Foundation,Beauty,3,1198.87,2025-05-08
+1104,Mark Olson,Sandals,Footwear,2,22.47,2025-05-12
+1105,Brittany Dawson,Perfume,Beauty,4,1395.23,2025-06-06
+1106,Lori Barrett,Cookbook,Books,2,1118.84,2024-09-23
+1107,Tina Hernandez,Blender,Home,3,1407.41,2024-10-08
+1108,Destiny Johnson,Foundation,Beauty,4,255.83,2024-12-17
+1109,Jordan White,Coffee Maker,Home,1,785.48,2024-11-01
+1110,Michelle Tanner,Smartphone,Electronics,3,369.13,2024-10-05
+1111,William Caldwell,Headphones,Electronics,5,1160.75,2024-09-03
+1112,Terry Ryan,Lentils,Grocery,5,516.45,2024-09-23
+1113,Matthew Christensen,Jacket,Apparel,5,1163.26,2025-06-17
+1114,Ronald Watson,Lentils,Grocery,3,1295.5,2024-12-03
+1115,Benjamin Weber,Board Game,Toys,3,278.55,2025-04-01
+1116,Nichole Allen,Boots,Footwear,5,1393.65,2024-09-27
+1117,Spencer Alvarado,Biography,Books,4,90.31,2025-06-11
+1118,Ronnie Stuart,Shirt,Apparel,3,1167.48,2024-08-28
+1119,Larry Kaiser,Toaster,Home,1,888.99,2025-01-22
+1120,Deborah Conner,Cookbook,Books,5,1366.91,2025-02-08
+1121,Gregory Diaz,Snacks,Grocery,4,424.53,2024-11-28
+1122,Brian Mccann,Puzzle,Toys,2,1034.2,2025-03-12
+1123,Nicole Fritz,Doll,Toys,1,151.05,2024-12-30
+1124,Melanie Whitney,Dress,Apparel,2,1399.58,2025-02-03
+1125,Dustin Howe,Board Game,Toys,3,747.89,2025-05-19
+1126,Jasmine Berg,T-shirt,Apparel,4,750.02,2025-02-27
+1127,Dr. Steven Lawrence MD,Self-help,Books,3,1499.33,2025-02-22
+1128,Dawn Davis,Shampoo,Beauty,3,63.66,2025-05-15
+1129,Jennifer Butler,Lamp,Home,5,535.94,2024-09-28
+1130,Kelly Lee,Perfume,Beauty,5,852.58,2024-08-13
+1131,Michael Santiago,Foundation,Beauty,5,155.07,2025-05-25
+1132,Wesley Arias,Action Figure,Toys,3,76.75,2025-05-21
+1133,John White,Lentils,Grocery,3,1279.47,2025-06-17
+1134,Crystal Lynch,Lamp,Home,2,1344.45,2024-07-18
+1135,Ryan Ashley,Shampoo,Beauty,4,1474.04,2024-09-20
+1136,Thomas Graham,Tablet,Electronics,3,621.83,2025-04-11
+1137,Joseph Fischer,Biography,Books,2,1402.99,2024-11-13
+1138,Miranda Meyer,Lego Set,Toys,4,391.45,2024-10-01
+1139,Matthew Becker,Shoes,Footwear,3,1327.72,2025-04-11
+1140,Jeffrey Thompson,Foundation,Beauty,2,1427.88,2025-05-10
+1141,Paul Wong,T-shirt,Apparel,4,205.69,2025-04-22
+1142,Joseph Huang,Shampoo,Beauty,1,984.05,2025-01-27
+1143,Nicholas Coleman,Action Figure,Toys,1,56.47,2024-07-17
+1144,James Gray,Action Figure,Toys,4,1356.85,2025-04-10
+1145,Lucas Stephens,Lamp,Home,4,82.73,2024-11-27
+1146,Rhonda Cobb,Novel,Books,3,74.8,2024-12-04
+1147,Sharon Lopez,Jacket,Apparel,2,858.45,2025-03-13
+1148,Patricia Evans,Shampoo,Beauty,1,1216.32,2024-11-12
+1149,James Kane,Shoes,Footwear,3,118.02,2024-12-20
+1150,Ricky Pratt,Dress,Apparel,5,610.34,2024-11-08
+1151,Lynn Davis,Comics,Books,2,1193.94,2025-03-28
+1152,Joseph Brown,Board Game,Toys,4,93.01,2024-07-28
+1153,Drew Wilkinson,Lentils,Grocery,3,675.75,2025-01-21
+1154,Henry Warner,Board Game,Toys,4,915.97,2025-01-27
+1155,Brenda Bass,Lamp,Home,2,226.53,2025-04-14
+1156,Christy Klein,Novel,Books,4,640.81,2025-03-13
+1157,Allison Clark DDS,Novel,Books,2,161.87,2025-03-08
+1158,Joseph Jones,Juice,Grocery,4,262.21,2024-10-28
+1159,Jessica Terrell,Snacks,Grocery,1,343.08,2024-12-29
+1160,Kevin Wilson,Jeans,Apparel,2,616.06,2024-12-14
+1161,Linda Warren,Snacks,Grocery,4,1132.58,2024-08-23
+1162,Elizabeth Richardson,Slippers,Footwear,5,1092.76,2024-10-29
+1163,Danielle Shelton,Headphones,Electronics,3,877.37,2024-11-03
+1164,Sean Keller,Self-help,Books,1,14.58,2024-08-13
+1165,Jill Jones,Cookbook,Books,3,543.36,2024-10-14
+1166,Linda Moore,Novel,Books,1,688.55,2024-12-10
+1167,Lisa Lopez,Lamp,Home,3,1388.68,2025-05-17
+1168,Katrina Carroll,Shampoo,Beauty,5,1435.59,2024-11-23
+1169,Joseph Woodward,Lentils,Grocery,3,1288.97,2024-10-20
+1170,Matthew Wilson,Smartphone,Electronics,1,1392.68,2024-11-11
+1171,Brian Phillips,Tablet,Electronics,4,15.76,2025-01-11
+1172,Jacqueline Day,Headphones,Electronics,5,1468.92,2025-02-08
+1173,Jesse Torres,Action Figure,Toys,4,913.4,2024-09-19
+1174,Lucas Sanders PhD,Shirt,Apparel,1,85.18,2024-12-17
+1175,Michael Williams,Board Game,Toys,3,679.39,2025-05-25
+1176,Brandon Tran,Lentils,Grocery,2,169.84,2025-02-22
+1177,Andrew Hall DVM,Shoes,Footwear,1,1276.66,2025-06-30
+1178,Daniel Hays,Dress,Apparel,5,528.32,2025-07-04
+1179,Jessica Werner,Boots,Footwear,4,773.99,2025-03-03
+1180,Mathew Smith,Shoes,Footwear,4,1189.72,2024-07-20
+1181,Rebecca Obrien,Sandals,Footwear,1,584.62,2024-08-28
+1182,Mason Mccall,Slippers,Footwear,5,763.19,2025-06-09
+1183,Lori Shaw,Coffee Maker,Home,5,30.28,2025-05-29
+1184,Patricia Keller,Jeans,Apparel,1,947.22,2024-07-25
+1185,Curtis Harris,Dress,Apparel,2,689.86,2024-11-09
+1186,Kevin Collier,Smartphone,Electronics,4,119.71,2024-12-26
+1187,Felicia Jackson,Sandals,Footwear,4,480.74,2024-09-01
+1188,Robin Parker,Laptop,Electronics,5,354.26,2024-08-12
+1189,Zoe Ferguson,Board Game,Toys,4,922.57,2024-09-24
+1190,Alyssa Ramirez,Foundation,Beauty,3,562.39,2025-03-08
+1191,Bradley Herrera,Biography,Books,1,757.39,2025-07-16
+1192,Brian Holder,Toaster,Home,2,957.16,2024-10-18
+1193,Jennifer Barton,Coffee Maker,Home,5,520.33,2025-05-23
+1194,Kelly Crane,Toaster,Home,3,1113.63,2024-12-13
+1195,Sean Mcdonald,Shampoo,Beauty,2,22.32,2025-05-19
+1196,Adam Bowman,Comics,Books,3,893.29,2025-06-19
+1197,Ashley Johnson,Jeans,Apparel,5,683.54,2025-02-27
+1198,Kristi Smith,Biography,Books,1,1430.39,2024-11-15
+1199,Mary Brown,Jacket,Apparel,3,137.68,2025-06-21
+1200,Kathleen Johnson,Comics,Books,3,342.59,2024-11-03
+1201,Jeffrey Maxwell,Shirt,Apparel,3,526.43,2024-07-25
+1202,Hailey Maldonado,Slippers,Footwear,3,1143.02,2025-02-09
+1203,Deborah Jackson,Perfume,Beauty,1,854.94,2025-03-04
+1204,Jeffery Edwards,Moisturizer,Beauty,4,252.84,2024-12-30
+1205,Hannah Sharp,Snacks,Grocery,2,113.11,2025-01-11
+1206,Teresa Cook,Smartphone,Electronics,1,926.34,2024-08-05
+1207,Rachel Lee,Laptop,Electronics,3,939.52,2025-03-07
+1208,Mary Gonzalez,Cookbook,Books,3,976.1,2025-02-19
+1209,Steve Powell,Sandals,Footwear,5,1290.51,2025-02-10
+1210,Jennifer Holland,Self-help,Books,2,740.62,2024-11-28
+1211,Ashley Marquez,Board Game,Toys,1,210.4,2025-03-26
+1212,Rachel Preston DDS,Shirt,Apparel,4,35.7,2025-01-20
+1213,Jason Bullock,Shampoo,Beauty,3,15.59,2025-04-01
+1214,Elaine Watson,Moisturizer,Beauty,1,1198.66,2024-12-11
+1215,Colin Norton,Smartphone,Electronics,2,722.9,2024-08-17
+1216,Dustin Brown,Snacks,Grocery,3,81.57,2025-03-23
+1217,Roger Ford,Snacks,Grocery,3,963.7,2024-08-07
+1218,David Mccann,Blender,Home,1,405.2,2025-07-06
+1219,Robert Gaines,Rice,Grocery,3,504.97,2025-06-09
+1220,Charles Henderson,Lipstick,Beauty,2,1178.14,2025-07-10
+1221,Faith Ayala,T-shirt,Apparel,1,621.5,2024-08-14
+1222,Charles Cook,Shampoo,Beauty,5,1223.85,2025-03-28
+1223,Melissa Beasley,Rice,Grocery,4,1318.31,2024-11-26
+1224,Justin Mclean IV,Snacks,Grocery,1,955.97,2025-03-23
+1225,Derek Rogers,Vacuum Cleaner,Home,1,435.31,2024-11-02
+1226,Yolanda Adams,Action Figure,Toys,1,347.48,2024-12-28
+1227,Stephanie Norman,Toaster,Home,2,1277.39,2024-09-16
+1228,Austin Booker,Coffee Maker,Home,1,141.97,2024-08-12
+1229,Jessica Wheeler,Shirt,Apparel,4,718.06,2025-07-04
+1230,Keith Smith,Puzzle,Toys,4,777.5,2024-08-02
+1231,James Jensen,Toaster,Home,3,294.04,2025-06-21
+1232,Sara Harmon,Foundation,Beauty,2,1109.68,2025-03-11
+1233,Mitchell Salas,Coffee Maker,Home,1,530.72,2024-10-30
+1234,Terrance Raymond,Sneakers,Footwear,4,255.28,2024-10-24
+1235,Jessica Stevens,Coffee Maker,Home,4,251.45,2024-07-21
+1236,Scott Dougherty,Smartwatch,Electronics,5,10.47,2025-01-18
+1237,Robert Gonzalez,Action Figure,Toys,2,1074.3,2024-12-31
+1238,Rebecca Lowe,Shoes,Footwear,3,1413.39,2024-08-25
+1239,Benjamin Blackburn,Self-help,Books,1,757.33,2025-02-18
+1240,Logan Arnold,Snacks,Grocery,3,271.3,2024-07-29
+1241,Daniel Owens,Sandals,Footwear,2,415.02,2024-11-05
+1242,Christopher Owen,Sneakers,Footwear,2,417.27,2025-05-29
+1243,George Hess,Jeans,Apparel,5,1235.62,2024-08-19
+1244,Edgar Santiago,Smartwatch,Electronics,1,465.55,2024-11-24
+1245,Paul Reilly,Pasta,Grocery,4,1085.28,2025-07-08
+1246,Elizabeth Pearson,Novel,Books,1,328.48,2024-12-25
+1247,Leonard Rodriguez,Shirt,Apparel,4,1292.16,2024-12-22
+1248,Derek Gonzalez,Foundation,Beauty,5,1414.29,2024-07-21
+1249,Robert Gilbert,Moisturizer,Beauty,1,269.35,2024-07-20
+1250,Alexis Wilson,Board Game,Toys,4,1114.6,2024-11-03
+1251,Daniel Stanton,Doll,Toys,2,309.85,2025-01-16
+1252,Ashley Johnson,Puzzle,Toys,5,1236.96,2024-08-07
+1253,Crystal King,Boots,Footwear,2,1465.99,2025-04-16
+1254,Carmen Beltran,Laptop,Electronics,2,766.71,2025-03-07
+1255,Seth Peters,Coffee Maker,Home,3,1265.4,2024-09-04
+1256,Annette Robinson MD,Doll,Toys,5,269.89,2025-03-04
+1257,Patricia Russell,Action Figure,Toys,4,251.27,2024-12-30
+1258,Chloe Choi,Action Figure,Toys,4,1193.51,2024-12-05
+1259,Melanie Yoder,Dress,Apparel,4,750.12,2024-11-03
+1260,Jonathan Bradford,Lego Set,Toys,5,142.81,2025-03-29
+1261,Paul Morales,Tablet,Electronics,5,814.39,2024-10-14
+1262,Catherine Hanna,Cookbook,Books,2,1369.9,2024-11-29
+1263,William Fleming,Pasta,Grocery,3,1292.47,2025-01-29
+1264,Shawn Terry,Boots,Footwear,2,380.94,2025-03-16
+1265,Suzanne Acosta,Lipstick,Beauty,5,1308.7,2024-09-21
+1266,Dustin Mitchell,Self-help,Books,2,114.28,2025-05-07
+1267,Katherine Francis,Moisturizer,Beauty,2,1457.0,2024-12-06
+1268,Melissa Smith,Self-help,Books,5,1214.35,2025-02-01
+1269,William Hamilton,Board Game,Toys,2,476.61,2025-02-28
+1270,Jacob Rogers,Self-help,Books,3,862.84,2025-07-02
+1271,Darryl Knight,Lego Set,Toys,2,28.08,2024-11-15
+1272,Christopher Reynolds,Boots,Footwear,5,929.87,2025-07-13
+1273,Pamela Smith,Vacuum Cleaner,Home,3,66.59,2025-02-13
+1274,Lisa Adams,Self-help,Books,3,990.48,2025-05-05
+1275,James Phillips,Foundation,Beauty,5,309.86,2025-04-23
+1276,Stacy Carr,Blender,Home,5,483.36,2025-06-08
+1277,Bernard Phillips,Comics,Books,1,1025.25,2025-05-27
+1278,Amber Grimes,Coffee Maker,Home,1,289.64,2024-10-17
+1279,Joshua Moreno,Jacket,Apparel,1,937.54,2025-01-14
+1280,Kathy Marquez,Slippers,Footwear,1,848.62,2024-11-24
+1281,Debbie Anderson,Rice,Grocery,5,335.34,2025-02-20
+1282,Kimberly Andrews,Shoes,Footwear,5,410.63,2024-07-17
+1283,David Willis,Action Figure,Toys,2,548.69,2025-04-28
+1284,Kathleen Lopez,Dress,Apparel,3,1171.73,2024-12-17
+1285,David Torres,Shirt,Apparel,2,116.85,2025-06-28
+1286,Brian Martinez,T-shirt,Apparel,3,433.9,2025-06-27
+1287,Dawn Kramer,Lego Set,Toys,1,69.11,2025-02-10
+1288,Angela Davis,Shampoo,Beauty,1,99.75,2025-03-09
+1289,Kimberly Chen,Shoes,Footwear,2,903.96,2024-12-26
+1290,Colleen Rivera,Sneakers,Footwear,2,1177.68,2025-02-27
+1291,Amber Cabrera,Vacuum Cleaner,Home,4,563.77,2025-06-12
+1292,Matthew Nelson,Slippers,Footwear,5,93.51,2025-06-09
+1293,Barbara Anderson,Jeans,Apparel,5,1153.63,2025-01-05
+1294,Matthew Smith,Sneakers,Footwear,1,748.83,2025-01-12
+1295,Monique Montoya,Snacks,Grocery,5,786.9,2024-11-24
+1296,Michael Rivers,Jeans,Apparel,5,118.42,2025-02-21
+1297,Ryan Nash,Lego Set,Toys,5,512.52,2024-09-15
+1298,Michelle Weiss,Smartwatch,Electronics,5,1044.88,2025-01-15
+1299,Brandon Mahoney,Moisturizer,Beauty,5,526.8,2025-05-09
+1300,Tammy Miller,Boots,Footwear,1,1121.16,2024-10-30
+1301,Ms. Wanda Neal,Jeans,Apparel,1,1243.26,2025-04-19
+1302,Jane Thompson,Jacket,Apparel,1,292.64,2024-12-17
+1303,Lori Hall,Lipstick,Beauty,2,254.53,2024-07-21
+1304,Daniel Lewis,Sandals,Footwear,1,1181.41,2025-04-10
+1305,Daniel Lopez,Foundation,Beauty,4,78.59,2025-02-12
+1306,Laurie Contreras,Biography,Books,3,354.94,2025-03-02
+1307,Alicia Christensen,Laptop,Electronics,5,1120.1,2024-09-04
+1308,Kelli Smith,Shampoo,Beauty,2,161.87,2025-01-15
+1309,Leah Johnson,Lamp,Home,4,1413.57,2025-03-09
+1310,Caitlin Reyes,Juice,Grocery,5,488.47,2025-01-20
+1311,Hannah Garcia,Cookbook,Books,4,1130.81,2025-03-14
+1312,Jose Hughes,Smartwatch,Electronics,5,52.45,2025-06-05
+1313,Eric Cochran,Comics,Books,2,1361.08,2025-07-12
+1314,Daniel Nguyen,Action Figure,Toys,1,1270.8,2025-04-11
+1315,Jessica Evans,Lipstick,Beauty,5,467.05,2024-11-14
+1316,Penny Hall,Shirt,Apparel,5,1079.85,2025-04-24
+1317,Vanessa Cooper,Blender,Home,2,1463.93,2025-06-30
+1318,Daniel Phillips,Sneakers,Footwear,3,596.99,2024-10-14
+1319,John Brooks,Sandals,Footwear,4,1215.0,2025-06-01
+1320,Joseph Webster,T-shirt,Apparel,3,795.71,2025-04-18
+1321,Bobby Blevins,Snacks,Grocery,5,324.43,2025-05-24
+1322,Pamela Reed,Foundation,Beauty,1,1228.14,2024-10-08
+1323,Nancy Jenkins,Juice,Grocery,4,605.81,2024-09-08
+1324,Mitchell White,Board Game,Toys,5,891.93,2025-03-04
+1325,David Odonnell,Puzzle,Toys,3,792.02,2025-01-17
+1326,Cody Ward,Smartwatch,Electronics,4,1078.07,2024-10-27
+1327,Paul Brooks,Pasta,Grocery,2,553.48,2025-03-28
+1328,Billy Jones,Shampoo,Beauty,3,137.58,2025-02-28
+1329,Bill Smith,Lego Set,Toys,4,640.73,2024-09-05
+1330,Loretta Lee,Headphones,Electronics,2,1386.99,2024-11-08
+1331,Heather Lowe,Laptop,Electronics,1,934.59,2025-01-25
+1332,Steven Grant,Boots,Footwear,1,1392.23,2024-09-13
+1333,Benjamin Murphy,Jeans,Apparel,1,1170.75,2025-05-28
+1334,Charles Pratt,Shampoo,Beauty,1,1267.09,2024-09-13
+1335,Matthew Taylor,Smartwatch,Electronics,1,466.22,2024-08-29
+1336,Michael Moore,Slippers,Footwear,4,1146.25,2025-02-05
+1337,Adam Mcdonald,Sneakers,Footwear,3,102.99,2025-07-04
+1338,Lisa Navarro,T-shirt,Apparel,2,1277.59,2025-03-20
+1339,Margaret Bryant,Board Game,Toys,4,1369.32,2024-08-22
+1340,Jason Moran,Toaster,Home,2,412.89,2025-01-18
+1341,Nicole Howe,Boots,Footwear,4,885.95,2024-09-08
+1342,Joanna Martin,T-shirt,Apparel,2,882.11,2024-09-10
+1343,Robert Brooks,Tablet,Electronics,3,694.91,2025-07-11
+1344,Danielle Hicks,Board Game,Toys,5,975.78,2025-05-16
+1345,Ashley Thomas,Shampoo,Beauty,5,1163.55,2025-03-29
+1346,Andrea Nelson,Toaster,Home,5,1373.7,2025-02-17
+1347,Gregory Wright,Jacket,Apparel,4,134.27,2025-06-02
+1348,Peter Contreras,Shoes,Footwear,5,1296.14,2024-12-24
+1349,Heather Merritt MD,Action Figure,Toys,3,352.37,2024-08-17
+1350,Christina Reynolds,Laptop,Electronics,3,1482.93,2025-03-27
+1351,Barbara Hernandez,Lipstick,Beauty,3,1096.59,2025-03-05
+1352,Erika Kent,T-shirt,Apparel,3,45.21,2025-07-08
+1353,Samantha Jennings,Shampoo,Beauty,5,538.41,2025-07-05
+1354,Joshua Lopez,Comics,Books,5,193.97,2024-11-08
+1355,Kristen Thomas,Sandals,Footwear,5,1006.47,2025-02-02
+1356,Samantha Cabrera,Snacks,Grocery,4,1113.35,2024-08-08
+1357,Jeffrey Black,Novel,Books,4,1237.1,2025-01-25
+1358,Michelle Baker,Biography,Books,2,1224.3,2025-06-16
+1359,Eric Bartlett PhD,T-shirt,Apparel,4,31.86,2024-09-29
+1360,Debra Harrington,Dress,Apparel,3,1217.93,2024-11-25
+1361,Crystal Patterson,Lipstick,Beauty,5,613.14,2025-05-20
+1362,Wendy Hall,Vacuum Cleaner,Home,1,1355.22,2024-07-22
+1363,Lindsey Stafford,Sandals,Footwear,2,1228.38,2025-06-24
+1364,John Jennings,Snacks,Grocery,5,425.14,2024-08-08
+1365,Ronald Hall,Smartphone,Electronics,2,342.23,2024-12-30
+1366,Samantha Moore,Snacks,Grocery,1,385.42,2024-07-30
+1367,William Fry,Board Game,Toys,5,826.33,2024-12-31
+1368,Michael Smith,Novel,Books,5,824.93,2025-01-11
+1369,Joseph Chapman,Lipstick,Beauty,3,1403.41,2024-11-11
+1370,Melissa Stewart,Sandals,Footwear,4,907.66,2025-06-10
+1371,Stefanie Hall,Blender,Home,2,210.36,2024-07-20
+1372,Deborah Lee,Perfume,Beauty,2,703.98,2024-11-26
+1373,Catherine Lopez,Biography,Books,5,1099.77,2025-03-27
+1374,William Dixon,Perfume,Beauty,4,427.07,2025-06-23
+1375,Aaron Khan,Blender,Home,5,657.13,2025-04-07
+1376,Susan Ramos,Action Figure,Toys,1,254.88,2025-04-01
+1377,Joseph Phillips,Comics,Books,4,1403.86,2025-01-15
+1378,Juan Rose,Vacuum Cleaner,Home,3,186.57,2025-03-30
+1379,Jennifer Burke,Board Game,Toys,1,1361.05,2025-07-05
+1380,Joshua Murphy,Sneakers,Footwear,4,379.24,2024-08-20
+1381,Alexandria Hill,Jeans,Apparel,4,1333.8,2025-01-04
+1382,Ashley Herrera,T-shirt,Apparel,4,630.61,2024-07-29
+1383,Benjamin Abbott,Snacks,Grocery,4,975.89,2024-09-17
+1384,Caitlin Norris,Shoes,Footwear,3,1325.51,2025-02-02
+1385,Rebecca Anderson,Headphones,Electronics,5,1172.1,2024-12-24
+1386,Denise Smith,Shirt,Apparel,3,312.21,2025-06-04
+1387,Phillip Diaz,Shampoo,Beauty,2,953.58,2025-05-10
+1388,Veronica Castro,Boots,Footwear,5,728.48,2025-02-19
+1389,Jeremy Lee,Shirt,Apparel,4,86.32,2025-02-17
+1390,Trevor Avery MD,Lipstick,Beauty,4,1442.71,2025-03-02
+1391,Joshua Bauer,Blender,Home,3,321.5,2024-11-01
+1392,Wendy Nash,Dress,Apparel,1,1238.76,2025-04-09
+1393,Jacob Hebert,Moisturizer,Beauty,1,976.32,2025-01-03
+1394,Mary Wilson,Action Figure,Toys,5,405.79,2024-09-30
+1395,William Stewart,Snacks,Grocery,1,675.29,2025-03-03
+1396,John Diaz,Lentils,Grocery,4,1297.9,2024-11-29
+1397,Joshua Webb,Juice,Grocery,1,1221.4,2024-09-11
+1398,Alicia Torres,Lipstick,Beauty,3,1381.4,2024-10-22
+1399,Cody Delgado,Laptop,Electronics,3,910.6,2025-06-14
+1400,Alexandra Bryant MD,Lentils,Grocery,5,376.78,2025-06-30
+1401,Brenda Stevens,Toaster,Home,1,194.78,2024-09-07
+1402,Aaron Garcia,Action Figure,Toys,4,1150.84,2025-05-25
+1403,David Jones MD,Rice,Grocery,4,190.12,2024-08-24
+1404,Jessica Thompson,Lego Set,Toys,4,122.24,2025-05-22
+1405,Richard Rice,Shirt,Apparel,5,883.3,2024-10-15
+1406,Christopher George,Snacks,Grocery,1,1350.52,2024-07-20
+1407,Maurice Pierce,Tablet,Electronics,3,617.72,2025-03-23
+1408,Victoria Collins,Shampoo,Beauty,2,1143.46,2025-01-12
+1409,Diana Fleming,Rice,Grocery,4,42.48,2024-10-27
+1410,Amanda Blanchard,Comics,Books,2,493.27,2024-09-09
+1411,Joseph Powell,Foundation,Beauty,3,321.96,2024-07-17
+1412,Jessica Williams,Lipstick,Beauty,3,842.84,2025-01-05
+1413,Kimberly Kidd,Shirt,Apparel,3,1483.5,2024-09-24
+1414,Nicholas Spears,Doll,Toys,1,1317.87,2025-05-15
+1415,Jennifer Scott,Lamp,Home,2,421.12,2024-12-21
+1416,James Bennett,Tablet,Electronics,2,709.79,2025-03-09
+1417,Brian Kelly,Slippers,Footwear,3,1314.27,2024-12-18
+1418,Mark Huerta,Cookbook,Books,4,666.94,2025-02-22
+1419,Cheyenne Valdez,Sandals,Footwear,1,560.46,2025-05-15
+1420,David Oneal,Board Game,Toys,2,206.7,2024-10-14
+1421,Rachel Nguyen,Shoes,Footwear,4,926.65,2024-12-31
+1422,Vanessa Martinez,Toaster,Home,5,1491.25,2025-03-21
+1423,Vicki Lewis,Puzzle,Toys,2,174.04,2024-08-24
+1424,Laura Rodgers,Blender,Home,5,146.52,2025-06-10
+1425,Alyssa Holmes,Snacks,Grocery,4,997.11,2024-11-05
+1426,Eric Weber,Smartphone,Electronics,1,1411.6,2024-07-19
+1427,Richard Ryan,Snacks,Grocery,4,1208.02,2024-08-14
+1428,Taylor Huerta,Lego Set,Toys,2,126.72,2024-09-15
+1429,Teresa Rhodes,Jacket,Apparel,5,895.81,2025-03-02
+1430,Jesus Henderson,Snacks,Grocery,1,251.88,2024-08-10
+1431,Jennifer Everett,Foundation,Beauty,1,218.39,2025-06-20
+1432,Kaitlyn Brown,Slippers,Footwear,2,565.57,2024-12-18
+1433,Teresa Blackburn,Snacks,Grocery,5,153.39,2025-02-27
+1434,Justin Peterson,Puzzle,Toys,3,536.86,2025-04-20
+1435,Michelle Mendoza,Juice,Grocery,4,1291.29,2024-08-08
+1436,Brandon Green,Foundation,Beauty,3,1159.72,2025-01-21
+1437,Tammy Chambers,Toaster,Home,4,774.53,2025-03-02
+1438,Ricky Harris,Toaster,Home,2,477.39,2025-06-08
+1439,Michelle Williams,Self-help,Books,1,235.8,2025-04-19
+1440,Jordan Lewis,Vacuum Cleaner,Home,3,1136.49,2024-07-19
+1441,Caleb Bradley,Lipstick,Beauty,5,671.39,2024-10-15
+1442,Austin Pierce,Cookbook,Books,1,1383.13,2025-02-23
+1443,Ryan Summers,Laptop,Electronics,2,498.33,2025-03-22
+1444,Alexis Smith,Shirt,Apparel,4,192.04,2025-04-12
+1445,Todd Campbell,Laptop,Electronics,1,906.3,2025-02-16
+1446,Casey Stevens,Board Game,Toys,3,885.54,2024-08-09
+1447,Michelle Macdonald,Biography,Books,4,294.04,2024-12-08
+1448,Peter Tran,Juice,Grocery,3,822.59,2024-11-27
+1449,Lisa Wilson,Toaster,Home,2,1008.77,2024-09-27
+1450,Anne Hood,Action Figure,Toys,5,1294.15,2024-12-27
+1451,Patricia Mitchell,Foundation,Beauty,4,1400.74,2024-12-21
+1452,Tony Sweeney,T-shirt,Apparel,2,799.63,2024-12-13
+1453,Jenny Torres,Moisturizer,Beauty,4,194.36,2025-01-18
+1454,James Wilson,Coffee Maker,Home,4,376.53,2024-10-07
+1455,Kathleen Kelley,Juice,Grocery,3,554.74,2024-09-15
+1456,David Ross,Shirt,Apparel,1,1315.45,2024-12-11
+1457,Brad Powell,Puzzle,Toys,2,431.66,2025-01-30
+1458,James Ross DVM,Lego Set,Toys,5,356.47,2025-01-10
+1459,Kristin Miller,Smartphone,Electronics,2,717.29,2024-08-13
+1460,Stacie Cunningham,Perfume,Beauty,3,590.68,2025-05-02
+1461,Bryan Morales,Jacket,Apparel,1,966.85,2025-05-09
+1462,Brandon Gonzalez,Lentils,Grocery,4,1231.5,2025-03-08
+1463,Derek Calhoun IV,Coffee Maker,Home,4,1380.92,2024-07-23
+1464,Michael Potter,Smartwatch,Electronics,3,1135.5,2025-01-07
+1465,Marcus Fox,Foundation,Beauty,2,769.8,2025-01-13
+1466,David Hayes,Juice,Grocery,4,1454.95,2025-05-28
+1467,Dana Bennett,Smartphone,Electronics,3,403.26,2024-10-24
+1468,Ronald Wallace,Lamp,Home,5,1095.05,2025-01-08
+1469,Brandon Torres,Shampoo,Beauty,3,331.18,2024-09-03
+1470,Annette Novak,Jeans,Apparel,5,1328.84,2024-10-27
+1471,Gregory Li,Tablet,Electronics,5,351.67,2025-02-20
+1472,Dr. Mckenzie Barnes,Lipstick,Beauty,2,1319.18,2025-05-18
+1473,Christy Cook,Coffee Maker,Home,1,706.42,2025-05-13
+1474,Jason Townsend,Dress,Apparel,3,926.03,2025-06-17
+1475,Thomas Thomas,Lamp,Home,2,713.91,2024-11-29
+1476,Jennifer Nielsen,Rice,Grocery,5,1243.24,2024-11-28
+1477,Shawn Barrett,Smartphone,Electronics,2,1280.84,2025-02-11
+1478,Briana Hayden,Coffee Maker,Home,5,391.45,2024-12-07
+1479,Ryan Hicks,Sneakers,Footwear,1,1491.53,2025-05-11
+1480,Jeffery Holland,Headphones,Electronics,1,967.68,2025-01-10
+1481,Kimberly Valdez,Foundation,Beauty,5,777.16,2024-12-19
+1482,Jack Warren,Lentils,Grocery,5,901.07,2024-11-05
+1483,Frank Kelly,Juice,Grocery,1,1479.39,2025-07-02
+1484,Dr. Joshua Thompson,Rice,Grocery,3,14.55,2024-08-06
+1485,Charles Edwards,Headphones,Electronics,4,497.7,2025-01-11
+1486,Jonathan Young,Blender,Home,1,358.42,2024-12-21
+1487,Lauren Chung,Toaster,Home,5,98.21,2024-11-20
+1488,Troy Smith,Cookbook,Books,1,921.1,2024-10-10
+1489,Jody Avila,Lamp,Home,4,345.18,2024-07-31
+1490,Carol Barrera,Blender,Home,5,470.99,2025-03-27
+1491,Jasmin Jones,Foundation,Beauty,2,514.46,2024-11-24
+1492,Jay Decker,Lamp,Home,2,1458.81,2025-03-20
+1493,Jeff Robles,Vacuum Cleaner,Home,4,1478.56,2025-07-05
+1494,Rodney James,Boots,Footwear,5,1465.3,2025-03-24
+1495,Kevin Williams,Biography,Books,1,704.64,2025-07-03
+1496,Christopher Olson,Lamp,Home,1,535.9,2025-06-28
+1497,Stephanie Thomas,Lamp,Home,4,906.61,2024-10-16
+1498,Wanda Farrell,Doll,Toys,1,1302.72,2025-02-24
+1499,Stacey Buchanan,Self-help,Books,4,797.92,2025-07-06
+1500,Lori Coleman,Toaster,Home,1,1308.81,2024-08-23
+1501,Mason Perez,Jacket,Apparel,4,1029.27,2024-11-05
+1502,Danielle Ramos,Perfume,Beauty,2,988.03,2025-02-13
+1503,Jonathan Benjamin,Shirt,Apparel,5,680.32,2024-10-11
+1504,Ronald Kelly,Rice,Grocery,5,858.72,2025-02-12
+1505,Ronald Morgan,Tablet,Electronics,2,964.52,2024-11-14
+1506,Lindsey Walker,Shampoo,Beauty,2,1017.0,2025-03-01
+1507,Keith Owens,Biography,Books,1,734.57,2024-10-18
+1508,Julia Sutton,Moisturizer,Beauty,5,1129.91,2024-12-17
+1509,Richard Clarke,Board Game,Toys,1,635.13,2025-07-10
+1510,Michelle Johnson,Pasta,Grocery,2,571.35,2025-04-02
+1511,Carl Martin,Shoes,Footwear,2,995.43,2024-08-09
+1512,Shawn Soto,Slippers,Footwear,2,111.84,2025-05-29
+1513,Carla Reed,Moisturizer,Beauty,2,1174.13,2024-09-24
+1514,Robert Lester,Foundation,Beauty,3,1247.22,2025-02-06
+1515,Eric Meyer,Juice,Grocery,1,757.78,2024-12-01
+1516,Michael Martin,Foundation,Beauty,4,1060.57,2025-07-01
+1517,Amanda Roberts,Shirt,Apparel,2,987.0,2024-09-08
+1518,Mary Bennett,Moisturizer,Beauty,5,1110.48,2024-10-15
+1519,Dawn Esparza,Jacket,Apparel,3,1366.3,2025-06-01
+1520,Virginia Cooper,Coffee Maker,Home,5,1310.21,2024-09-11
+1521,Jennifer Weaver,Laptop,Electronics,5,73.15,2024-11-08
+1522,Alexander Velazquez,Sandals,Footwear,4,137.45,2024-07-18
+1523,Mr. Robert Yoder,Doll,Toys,3,1177.33,2024-09-01
+1524,Angela Neal,Lentils,Grocery,2,201.39,2025-01-20
+1525,Steven Adams,Shampoo,Beauty,4,145.33,2024-12-03
+1526,Rebecca Robinson,Slippers,Footwear,1,659.36,2025-03-21
+1527,Rachel Valdez,Perfume,Beauty,3,1369.67,2024-10-15
+1528,Victoria Sims,Shampoo,Beauty,4,810.61,2024-12-07
+1529,Duane Powell,Pasta,Grocery,3,178.23,2024-09-06
+1530,Michelle Buckley,Lego Set,Toys,3,1160.5,2025-01-18
+1531,Emily Li,Self-help,Books,2,127.37,2024-09-30
+1532,Mrs. Bailey Stewart,Doll,Toys,1,559.16,2024-11-13
+1533,Mary Vaughn,Laptop,Electronics,1,339.08,2025-04-19
+1534,Christina Miranda,Lentils,Grocery,5,713.92,2025-01-19
+1535,Terry Montoya,Juice,Grocery,2,963.1,2025-03-25
+1536,Steven Wright,Shirt,Apparel,3,235.65,2024-11-15
+1537,Brittany Hill,Lentils,Grocery,2,1383.67,2024-12-12
+1538,Tina Conley,Slippers,Footwear,3,1323.53,2024-08-23
+1539,Amanda Armstrong,Laptop,Electronics,1,1237.41,2024-10-26
+1540,Amy Griffin,Sneakers,Footwear,2,126.96,2024-07-26
+1541,William Diaz,Snacks,Grocery,1,1305.49,2025-04-15
+1542,Jeremy Sutton,Sneakers,Footwear,3,878.94,2024-08-31
+1543,Erica Doyle,Vacuum Cleaner,Home,2,734.53,2025-01-25
+1544,Holly Alexander,Puzzle,Toys,2,561.97,2024-10-13
+1545,Mrs. Laura Weber,Biography,Books,3,659.53,2025-06-25
+1546,Michael Cisneros,Perfume,Beauty,5,893.94,2025-02-07
+1547,Haley Reed,Boots,Footwear,2,678.72,2024-12-31
+1548,Lauren Torres,Slippers,Footwear,3,749.66,2025-01-30
+1549,James Collins,Dress,Apparel,5,1252.78,2025-07-13
+1550,Christopher Brown,Dress,Apparel,4,1139.54,2025-01-07
+1551,Stacy West,Lentils,Grocery,3,468.75,2024-11-04
+1552,Joel Wheeler,Sandals,Footwear,4,954.93,2025-01-20
+1553,Peggy Jones,Rice,Grocery,4,777.64,2025-04-29
+1554,Emily Howard,Biography,Books,3,566.03,2025-03-24
+1555,Deborah Harrison,Toaster,Home,3,1047.2,2025-06-08
+1556,Benjamin Young,Dress,Apparel,5,378.74,2025-06-26
+1557,Zachary Jensen,Board Game,Toys,2,901.89,2025-01-08
+1558,Rhonda Daniels,Novel,Books,1,1338.76,2025-06-15
+1559,Andrew Chaney,Action Figure,Toys,1,833.93,2025-04-01
+1560,Mary Cooke,Jacket,Apparel,3,13.61,2024-12-02
+1561,Linda Payne,Cookbook,Books,4,1380.57,2024-08-04
+1562,Raymond Miranda,Slippers,Footwear,2,299.11,2025-05-13
+1563,Tony Francis,Boots,Footwear,5,548.41,2025-04-06
+1564,Joel Mason,Perfume,Beauty,4,610.0,2024-12-13
+1565,Cynthia Griffin,Sneakers,Footwear,4,1109.66,2025-03-05
+1566,Derrick Lambert,Shirt,Apparel,3,395.25,2025-02-09
+1567,Peggy Brown,Biography,Books,5,971.02,2025-06-15
+1568,Terry Black,Cookbook,Books,5,650.13,2024-10-09
+1569,Karen Smith,Sandals,Footwear,1,816.48,2024-11-29
+1570,Tiffany Casey,Lego Set,Toys,4,222.23,2025-05-22
+1571,Robert Ellis,Perfume,Beauty,5,1042.67,2024-12-13
+1572,Nathaniel Wallace,Jeans,Apparel,5,153.49,2025-04-16
+1573,Jennifer Moore,Comics,Books,5,681.78,2024-08-17
+1574,Cynthia Howard,T-shirt,Apparel,3,695.58,2024-08-14
+1575,Mary Bowman,Doll,Toys,3,1398.72,2025-03-07
+1576,Jonathan Grimes,Coffee Maker,Home,5,465.61,2024-11-26
+1577,William Jackson,Shirt,Apparel,3,691.24,2024-12-17
+1578,Tamara Bass,Lipstick,Beauty,4,438.29,2025-04-09
+1579,Morgan Macdonald,Slippers,Footwear,2,1039.21,2025-06-15
+1580,Kyle Lopez,Laptop,Electronics,4,220.02,2024-12-21
+1581,Dawn Medina,Smartphone,Electronics,5,242.43,2025-02-04
+1582,James Wood,Foundation,Beauty,4,1241.02,2025-07-09
+1583,Jennifer Grant,Biography,Books,2,1391.94,2024-12-23
+1584,Amanda Ellis,Boots,Footwear,1,809.01,2025-07-05
+1585,Michael Herrera,Lamp,Home,2,816.58,2025-02-06
+1586,Dr. Brenda Wong,Smartphone,Electronics,3,391.06,2025-07-15
+1587,Amber Jones,Laptop,Electronics,2,1327.54,2024-09-14
+1588,Joann Singh,Board Game,Toys,4,329.56,2024-09-17
+1589,Dennis Trujillo,Blender,Home,2,360.42,2025-03-23
+1590,Samuel Russell,Sandals,Footwear,5,6.72,2025-06-08
+1591,Sydney Yang,Headphones,Electronics,4,1375.19,2024-09-10
+1592,Dwayne Wagner,Tablet,Electronics,2,173.49,2025-06-01
+1593,Kristina Martinez,Action Figure,Toys,4,667.58,2025-06-11
+1594,Christopher White,Blender,Home,4,516.54,2025-06-23
+1595,Donna Peterson,Perfume,Beauty,4,1270.19,2024-09-20
+1596,Robert Howe,Slippers,Footwear,5,504.03,2025-04-07
+1597,Joe Hart,Sneakers,Footwear,5,442.76,2024-07-22
+1598,Christopher Anderson,Pasta,Grocery,4,112.84,2025-02-02
+1599,Jeff Ortega,Moisturizer,Beauty,2,818.9,2025-07-09
+1600,Mackenzie Lopez,Coffee Maker,Home,3,658.97,2025-04-10
+1601,Diana Snyder,Jeans,Apparel,1,811.61,2025-06-02
+1602,John Rogers,Foundation,Beauty,3,562.65,2024-12-22
+1603,Jonathan Weber,Coffee Maker,Home,1,703.7,2025-05-05
+1604,Alexis Smith,Action Figure,Toys,4,1203.12,2025-05-17
+1605,James Larson,Lamp,Home,1,891.97,2025-03-10
+1606,Jennifer Smith,Board Game,Toys,5,1438.68,2025-02-04
+1607,Bonnie Alvarez,Rice,Grocery,3,35.21,2025-06-16
+1608,Lori King,Shampoo,Beauty,1,1366.53,2024-11-02
+1609,Kimberly Bowman,Puzzle,Toys,3,997.6,2024-10-12
+1610,Caroline Ford,Rice,Grocery,1,1478.79,2024-09-27
+1611,Taylor Lee,Lentils,Grocery,2,846.8,2024-09-02
+1612,James Nunez,Laptop,Electronics,3,771.85,2024-09-19
+1613,Gary Hardy,Lentils,Grocery,3,531.6,2025-05-18
+1614,Michelle Perry,Lamp,Home,2,1337.26,2025-01-02
+1615,Sarah Pearson,Toaster,Home,3,1148.94,2024-10-25
+1616,Kevin Johnson,Boots,Footwear,1,1374.82,2024-10-14
+1617,Kelly Pena,Rice,Grocery,4,1302.96,2025-04-09
+1618,Charles Larson,Lamp,Home,5,875.95,2024-09-24
+1619,Brandon Jarvis,Puzzle,Toys,2,312.16,2025-06-01
+1620,Lisa Oliver,Vacuum Cleaner,Home,1,1498.59,2025-01-05
+1621,Derrick Doyle,Rice,Grocery,5,1477.14,2025-05-14
+1622,Michael Miller,Dress,Apparel,3,225.6,2024-08-08
+1623,Robert Robinson,Shirt,Apparel,5,1313.01,2025-04-11
+1624,Mr. Michael Bowman,Board Game,Toys,1,1149.62,2025-03-15
+1625,Robert Miles,Boots,Footwear,2,1220.95,2024-09-06
+1626,Mrs. Diane Mcdonald,Rice,Grocery,1,1376.51,2025-01-23
+1627,Kim Brown,T-shirt,Apparel,4,135.28,2024-09-26
+1628,Courtney Schaefer,Moisturizer,Beauty,1,1347.28,2025-04-23
+1629,Diana Jimenez,Lego Set,Toys,3,1431.65,2025-07-08
+1630,Steven Rodriguez,Snacks,Grocery,2,882.64,2025-07-01
+1631,David Porter,Toaster,Home,2,200.24,2024-12-16
+1632,Alex Ramirez,Lego Set,Toys,3,616.05,2024-12-10
+1633,Erika Stanley,Sneakers,Footwear,4,1404.29,2025-05-05
+1634,Jeanne Wallace,Lamp,Home,2,1179.15,2025-04-08
+1635,Andrea Hinton,Self-help,Books,2,1141.18,2024-12-30
+1636,Amy Perry,Slippers,Footwear,4,614.01,2025-03-30
+1637,Gregory Patrick,Snacks,Grocery,4,1289.34,2025-03-30
+1638,Susan Morales,Laptop,Electronics,5,291.09,2024-10-02
+1639,Ruben Davis,Coffee Maker,Home,1,40.14,2025-04-06
+1640,Derek Thompson,Sandals,Footwear,4,91.21,2025-03-17
+1641,Sean Smith,Comics,Books,1,1262.99,2024-10-25
+1642,Ethan Holmes,Blender,Home,1,768.06,2025-03-09
+1643,Mark Sanchez,Smartwatch,Electronics,5,810.23,2025-02-21
+1644,Mary Sparks,Lipstick,Beauty,4,1228.7,2025-05-25
+1645,Crystal Lopez,Lentils,Grocery,5,243.05,2025-05-16
+1646,Tammy Gibson,Tablet,Electronics,5,1498.45,2025-05-23
+1647,Kathy Spencer,Lego Set,Toys,3,651.73,2024-10-05
+1648,Cynthia Dillon,Shirt,Apparel,5,909.15,2024-11-24
+1649,Christopher Williams,Board Game,Toys,4,1479.42,2025-05-07
+1650,Mr. Cody White,Lego Set,Toys,3,731.49,2025-02-01
+1651,Pamela Sampson,Snacks,Grocery,5,1457.39,2024-07-17
+1652,Lindsey Flowers,Lamp,Home,2,1340.77,2025-06-21
+1653,Catherine Harris,Novel,Books,5,1298.14,2025-04-13
+1654,Ashley Owens,Jacket,Apparel,5,1228.93,2025-06-01
+1655,Mark Cardenas,Jeans,Apparel,1,588.78,2024-10-07
+1656,Alexander Brewer,Comics,Books,1,1411.72,2025-02-25
+1657,Melanie Hall,Laptop,Electronics,2,1122.24,2025-03-04
+1658,Christy Huynh,Pasta,Grocery,3,1034.2,2025-01-28
+1659,Rebecca Wallace,Dress,Apparel,5,1260.27,2025-04-22
+1660,Jacob Peterson,Cookbook,Books,3,855.03,2024-11-16
+1661,Allison Sanford,Foundation,Beauty,3,896.51,2024-11-11
+1662,Janet Marshall,Shampoo,Beauty,4,1435.69,2025-04-27
+1663,Kristopher White,Jeans,Apparel,5,1480.57,2024-10-02
+1664,Michael Suarez,Rice,Grocery,2,941.26,2024-08-16
+1665,Carrie Wise,Lipstick,Beauty,4,957.1,2025-03-13
+1666,Grant Flores,Lamp,Home,4,46.69,2025-04-09
+1667,Charlotte Thomas,Sneakers,Footwear,1,1312.73,2025-03-27
+1668,Crystal White,Boots,Footwear,1,139.5,2025-04-21
+1669,Sarah Sutton,Smartphone,Electronics,2,1160.08,2025-04-22
+1670,Courtney Miller,Shirt,Apparel,1,973.56,2024-12-07
+1671,Ralph Turner,Boots,Footwear,4,1442.34,2025-07-06
+1672,Rachael Wallace,Sneakers,Footwear,3,778.03,2024-08-09
+1673,Manuel Reilly,Jeans,Apparel,4,751.06,2024-07-21
+1674,Laura Parker,Tablet,Electronics,5,1239.53,2025-05-12
+1675,Janet Richardson,Juice,Grocery,3,140.58,2025-04-22
+1676,David Moody III,Sneakers,Footwear,3,665.88,2025-04-22
+1677,David Pineda,Shoes,Footwear,4,937.92,2025-05-19
+1678,Annette Jones,Jacket,Apparel,5,487.93,2024-11-25
+1679,John Mason,Comics,Books,4,1405.74,2025-03-28
+1680,John Robertson,Headphones,Electronics,4,900.68,2024-09-11
+1681,Diana Miller,Lipstick,Beauty,5,181.98,2025-02-03
+1682,Laura Bolton,Moisturizer,Beauty,2,871.55,2025-02-16
+1683,Kathy Hernandez,Laptop,Electronics,2,48.29,2024-12-27
+1684,Colleen Ramirez,Blender,Home,5,82.65,2025-06-05
+1685,Alexandra Hays,Sneakers,Footwear,5,1446.79,2025-04-09
+1686,Michelle Davis,Lamp,Home,5,737.0,2024-09-23
+1687,Carlos Davis,Tablet,Electronics,2,140.88,2025-01-11
+1688,Dr. Heather Shepherd,Moisturizer,Beauty,5,795.85,2025-03-13
+1689,Laura Smith,Board Game,Toys,1,610.1,2024-10-08
+1690,Scott Wilcox,Jeans,Apparel,4,799.25,2025-02-09
+1691,Andre Brown,Board Game,Toys,1,1476.61,2024-09-26
+1692,Tamara Reyes,Lipstick,Beauty,5,138.4,2025-03-18
+1693,Jimmy Wilson,Lego Set,Toys,4,795.36,2025-01-26
+1694,Cassandra Wilson,Cookbook,Books,4,994.74,2025-05-30
+1695,Erik Spencer,Cookbook,Books,5,1111.15,2025-05-13
+1696,Gregory Guerrero,Juice,Grocery,3,192.0,2025-06-13
+1697,Kaylee Zimmerman,Novel,Books,5,375.04,2025-05-25
+1698,Ian Rodriguez,Moisturizer,Beauty,1,323.32,2025-02-13
+1699,Melissa Trujillo,Self-help,Books,4,103.51,2024-12-09
+1700,Caroline Hernandez,Shirt,Apparel,5,432.0,2025-01-18
+1701,Danielle Bryant,Boots,Footwear,2,1383.8,2025-06-23
+1702,Melanie Walker,Tablet,Electronics,5,1049.05,2024-11-22
+1703,Andrew Long,Shoes,Footwear,3,619.87,2025-06-18
+1704,Melanie Nash,Pasta,Grocery,3,109.94,2024-08-14
+1705,Marcus Barker,Toaster,Home,4,738.94,2024-10-03
+1706,Joshua Stevenson,Tablet,Electronics,5,1429.58,2025-01-28
+1707,Richard Arnold,Puzzle,Toys,4,1027.91,2025-07-03
+1708,Joshua Campbell,Smartwatch,Electronics,2,1133.7,2025-07-16
+1709,Brian Cisneros,Headphones,Electronics,1,201.74,2024-09-13
+1710,Julie Sheppard,Rice,Grocery,1,331.7,2025-04-07
+1711,Justin King,Jacket,Apparel,2,76.39,2024-11-28
+1712,Thomas Rivera,Lentils,Grocery,3,1039.02,2025-03-21
+1713,Crystal Jacobson,Foundation,Beauty,1,478.66,2024-09-29
+1714,Michael Watson,Smartwatch,Electronics,1,661.64,2025-01-16
+1715,Brandon Gilbert,Puzzle,Toys,3,1430.89,2025-06-29
+1716,Richard Gardner,Blender,Home,5,793.43,2025-05-05
+1717,Jared Johnson,Cookbook,Books,2,359.44,2025-06-26
+1718,Bridget Marsh,Biography,Books,1,22.24,2025-03-12
+1719,Thomas Gibson,Laptop,Electronics,3,706.62,2025-04-24
+1720,Timothy Kramer,Pasta,Grocery,2,1467.39,2025-03-15
+1721,Roger Robles,Vacuum Cleaner,Home,4,865.87,2024-12-25
+1722,Wayne Johnson,Rice,Grocery,5,1462.8,2024-10-08
+1723,Nicole Miller,T-shirt,Apparel,2,949.89,2025-04-03
+1724,Ronald Little,Jacket,Apparel,2,539.85,2024-10-28
+1725,Christopher Coleman,Laptop,Electronics,3,1022.25,2024-07-29
+1726,Robert Myers,Lego Set,Toys,5,1207.07,2024-09-28
+1727,Dr. Timothy Hawkins Jr.,Self-help,Books,3,1498.36,2024-09-02
+1728,Herbert Taylor,Lamp,Home,5,975.46,2024-11-06
+1729,Lisa Wolfe,Puzzle,Toys,2,387.9,2025-03-25
+1730,Heather Perez,Lego Set,Toys,1,621.43,2025-02-20
+1731,Jessica May,Shoes,Footwear,5,516.04,2024-07-22
+1732,Marcus Brown,Dress,Apparel,1,1315.86,2025-01-31
+1733,Erin Wallace,Doll,Toys,2,282.85,2024-10-18
+1734,Scott Rogers,Blender,Home,1,150.75,2024-11-14
+1735,Melody Garcia,Action Figure,Toys,2,336.84,2025-01-11
+1736,Joe Jackson,Dress,Apparel,4,1059.76,2025-04-08
+1737,Robert Higgins,Sneakers,Footwear,1,255.99,2024-12-24
+1738,Ryan Lara,Lentils,Grocery,4,207.03,2025-06-15
+1739,Lauren Delgado,Foundation,Beauty,5,232.65,2024-10-12
+1740,Theresa Gibson,Vacuum Cleaner,Home,5,773.24,2025-05-03
+1741,Jacob West,Juice,Grocery,3,657.49,2025-05-05
+1742,Joseph Stephenson,Toaster,Home,4,1207.88,2024-07-22
+1743,Christopher Morgan MD,Rice,Grocery,2,1452.04,2025-02-06
+1744,Martin Castillo,Action Figure,Toys,3,226.15,2025-02-24
+1745,Hunter Jones,Pasta,Grocery,1,1453.8,2025-01-15
+1746,Stephen Lee PhD,Boots,Footwear,4,1000.58,2024-10-25
+1747,Scott Wiley,Slippers,Footwear,2,1385.54,2025-06-07
+1748,Scott Grant,Jacket,Apparel,4,873.05,2025-02-11
+1749,Neil Henry,Vacuum Cleaner,Home,2,812.63,2024-07-16
+1750,Mrs. Tiffany Harrison,Jacket,Apparel,1,827.07,2024-10-29
+1751,Chelsea Gonzalez,Shampoo,Beauty,1,1116.1,2025-04-04
+1752,Wendy Black,Smartwatch,Electronics,5,1153.37,2025-04-18
+1753,Monica Avila,Boots,Footwear,4,390.42,2025-03-19
+1754,Susan Freeman,Slippers,Footwear,3,1201.89,2025-04-12
+1755,Sarah Blake,Rice,Grocery,4,1491.56,2024-12-17
+1756,Juan Thompson,Shampoo,Beauty,2,1398.45,2025-02-16
+1757,Kimberly Williams,Juice,Grocery,2,254.98,2024-09-05
+1758,Henry Chavez,Lentils,Grocery,4,515.25,2025-02-19
+1759,Deborah Kaufman,Shoes,Footwear,5,196.41,2024-12-17
+1760,Larry May,Boots,Footwear,2,1318.37,2024-09-09
+1761,Melissa Fox,Doll,Toys,4,1459.26,2025-01-23
+1762,Donna Mooney,Pasta,Grocery,4,1173.42,2024-11-24
+1763,Jennifer Thomas,Headphones,Electronics,5,1288.39,2025-05-20
+1764,Alexander Cummings,Rice,Grocery,5,56.15,2025-06-16
+1765,Theresa Martin,Headphones,Electronics,5,269.72,2025-06-24
+1766,Dustin Mcdaniel,T-shirt,Apparel,3,60.75,2024-10-13
+1767,Norman Robinson,Self-help,Books,3,572.46,2024-09-24
+1768,Jeffrey Vang,Rice,Grocery,4,763.37,2024-08-13
+1769,Jeffrey Hernandez,Moisturizer,Beauty,3,1037.55,2025-04-18
+1770,Denise Clark,Lipstick,Beauty,5,767.15,2025-03-07
+1771,Richard Martinez,Perfume,Beauty,5,502.45,2025-05-11
+1772,Joshua Pittman,Tablet,Electronics,2,843.2,2025-03-05
+1773,Tamara Gallagher,Lentils,Grocery,2,569.27,2025-07-03
+1774,Sonya Gonzalez DVM,Board Game,Toys,5,1075.22,2024-07-23
+1775,Valerie West,Self-help,Books,4,738.86,2025-06-18
+1776,Tamara Johnson,T-shirt,Apparel,4,1085.86,2024-08-20
+1777,Edward Noble,Shoes,Footwear,4,154.69,2024-08-20
+1778,Patrick Holland,Comics,Books,1,1251.88,2024-12-11
+1779,John Schneider,Laptop,Electronics,4,570.92,2025-01-16
+1780,Kerry Perez,Laptop,Electronics,3,955.42,2025-03-05
+1781,Stacy Brown,Novel,Books,4,202.26,2025-02-04
+1782,Hannah Melton,Comics,Books,4,630.17,2024-10-05
+1783,Emily Jordan DDS,Coffee Maker,Home,1,519.1,2024-11-03
+1784,Amanda Archer,Comics,Books,2,986.08,2025-06-30
+1785,Suzanne Smith,Foundation,Beauty,5,552.95,2024-07-31
+1786,Robert Perez,Shampoo,Beauty,5,1350.13,2024-12-10
+1787,Ryan Buck,Lamp,Home,1,1228.07,2024-09-09
+1788,Laura Henderson,Smartwatch,Electronics,1,1260.4,2025-05-01
+1789,Emma Hill,Board Game,Toys,5,1332.53,2025-02-26
+1790,Alyssa Rice MD,Vacuum Cleaner,Home,1,650.36,2025-02-19
+1791,April Anderson,Self-help,Books,4,412.82,2025-04-06
+1792,Cheryl Hunter,Moisturizer,Beauty,5,1070.46,2025-06-18
+1793,David Mcguire,Smartphone,Electronics,5,300.73,2024-10-03
+1794,Chloe Bauer,Vacuum Cleaner,Home,2,653.51,2025-05-14
+1795,Jason Roberts,Smartphone,Electronics,4,476.49,2025-07-09
+1796,Keith Montgomery,Slippers,Footwear,4,1300.22,2025-01-06
+1797,Elizabeth Williams,Biography,Books,1,432.3,2025-07-09
+1798,David Adams,Pasta,Grocery,3,784.48,2024-08-09
+1799,Mary Brown,Moisturizer,Beauty,4,332.09,2025-06-13
+1800,Mitchell Roberson,Laptop,Electronics,4,266.15,2025-04-18
+1801,Jennifer Mendoza,T-shirt,Apparel,4,1370.08,2025-06-19
+1802,Tracy Barton,Lamp,Home,4,243.68,2024-11-05
+1803,Adam Chandler,Blender,Home,4,228.43,2025-02-17
+1804,Sarah Raymond,Vacuum Cleaner,Home,3,335.85,2025-02-04
+1805,Dennis Garcia,Action Figure,Toys,3,1181.68,2025-04-05
+1806,Bradley Andrews,Coffee Maker,Home,4,564.78,2024-07-18
+1807,Cynthia Perez,Slippers,Footwear,4,1397.06,2025-02-06
+1808,Jeremy Choi,Smartwatch,Electronics,1,1335.46,2025-05-19
+1809,Phillip Warren,Lentils,Grocery,5,435.24,2024-09-20
+1810,David Duncan,Smartwatch,Electronics,5,1252.46,2025-01-03
+1811,Heather Smith,Board Game,Toys,1,1194.68,2024-11-01
+1812,Sharon Figueroa,Coffee Maker,Home,1,1100.22,2024-12-07
+1813,Stacey Page,Tablet,Electronics,5,853.57,2025-05-16
+1814,Troy Miller,Sneakers,Footwear,2,1407.95,2025-07-09
+1815,Kevin Sexton,Toaster,Home,3,1263.3,2025-06-24
+1816,Ellen Reed,Novel,Books,1,1488.93,2024-07-31
+1817,Kelly Conrad,Vacuum Cleaner,Home,5,28.26,2024-10-05
+1818,Robert Medina,Coffee Maker,Home,1,983.47,2024-12-16
+1819,Andre Jacobson,Boots,Footwear,1,823.12,2025-05-19
+1820,James Schmidt,Boots,Footwear,1,416.02,2024-07-30
+1821,Susan Garcia,Action Figure,Toys,2,1123.48,2025-07-05
+1822,Kenneth Martin,Rice,Grocery,3,585.69,2024-08-24
+1823,Matthew Savage,Lamp,Home,1,556.59,2024-11-18
+1824,Julie Richardson,Smartwatch,Electronics,2,974.86,2024-07-19
+1825,Luke Norton,Shoes,Footwear,5,1353.8,2024-09-19
+1826,Paula Clarke,Shampoo,Beauty,2,21.35,2025-05-03
+1827,Ashley Watkins,Doll,Toys,1,980.1,2024-12-07
+1828,Natalie Pope,T-shirt,Apparel,2,791.71,2024-12-29
+1829,Richard White,Jeans,Apparel,2,761.4,2024-12-22
+1830,Eric Mckenzie,Snacks,Grocery,5,438.41,2025-07-03
+1831,Lauren Brown,Puzzle,Toys,1,1331.47,2024-09-09
+1832,Timothy Rios,Pasta,Grocery,3,42.94,2024-09-24
+1833,Sean George,Moisturizer,Beauty,4,1006.58,2024-11-18
+1834,Linda Simmons,Rice,Grocery,1,134.8,2025-07-09
+1835,Sherry Jackson,Smartwatch,Electronics,2,968.11,2024-10-30
+1836,Jonathan Perez,Dress,Apparel,2,1371.53,2024-10-13
+1837,William Page,Headphones,Electronics,3,922.36,2025-04-09
+1838,Lucas Morgan,Novel,Books,3,247.59,2025-03-31
+1839,Ryan Buchanan,Moisturizer,Beauty,1,846.05,2025-02-20
+1840,Anthony Stafford,Puzzle,Toys,5,1151.79,2024-10-13
+1841,Wesley Wilson,Shirt,Apparel,5,1038.64,2024-07-22
+1842,Tiffany Burton,Foundation,Beauty,1,990.81,2025-06-30
+1843,Melanie Burns,Slippers,Footwear,4,1002.08,2024-09-02
+1844,Kimberly Bartlett,Lentils,Grocery,5,334.96,2025-01-15
+1845,Scott Cruz,Shoes,Footwear,4,590.36,2024-09-11
+1846,Karen Young,Vacuum Cleaner,Home,4,1332.81,2024-08-30
+1847,Tamara Ramirez,Juice,Grocery,5,343.07,2024-08-21
+1848,Susan Wolfe,Lego Set,Toys,2,1314.39,2024-11-02
+1849,Paige Schroeder,Shoes,Footwear,4,189.28,2024-12-11
+1850,Michael Case,Shoes,Footwear,1,818.39,2025-04-15
+1851,Christopher Cochran,T-shirt,Apparel,5,1001.01,2024-07-22
+1852,Emily Lyons,Moisturizer,Beauty,3,1093.15,2024-08-12
+1853,Jerry Owens III,Headphones,Electronics,4,1448.16,2025-04-20
+1854,Andrew Walker,Boots,Footwear,1,290.8,2024-08-09
+1855,Andrew Wyatt,Lego Set,Toys,1,1072.11,2025-05-24
+1856,Melissa Jackson,Dress,Apparel,1,322.72,2024-07-29
+1857,Lucas Mejia,Sandals,Footwear,1,1353.76,2024-07-16
+1858,Paul Watts,Foundation,Beauty,3,1179.18,2024-12-10
+1859,Michelle Castro,Puzzle,Toys,2,639.98,2024-11-05
+1860,Jose Ortiz,Sandals,Footwear,4,947.08,2024-08-30
+1861,David Shields,Moisturizer,Beauty,2,769.32,2025-05-04
+1862,Victoria Morris,Shoes,Footwear,4,649.15,2024-07-29
+1863,Joe Smith,Laptop,Electronics,5,1300.64,2024-07-31
+1864,Bianca Raymond,Tablet,Electronics,2,557.96,2025-05-01
+1865,Connor Carlson,Dress,Apparel,4,134.44,2025-02-19
+1866,Brittany Parker,Doll,Toys,3,246.56,2025-01-08
+1867,Amber Wilson,Lipstick,Beauty,2,935.06,2025-03-07
+1868,Andres Taylor,Novel,Books,2,180.32,2025-01-29
+1869,Matthew Strickland,Action Figure,Toys,5,1268.11,2025-03-08
+1870,Thomas Rodriguez,Sneakers,Footwear,4,275.14,2024-10-23
+1871,Stephen Mathews,Novel,Books,1,295.54,2025-06-02
+1872,Denise Pratt,Pasta,Grocery,5,232.24,2025-02-08
+1873,Ronald Henry,Sandals,Footwear,2,590.37,2025-01-17
+1874,Brandon Gonzalez,Biography,Books,5,905.17,2024-08-24
+1875,Richard Rowland,Headphones,Electronics,5,975.43,2024-11-17
+1876,Kendra Graham,Self-help,Books,2,446.66,2025-03-16
+1877,Jesse Hoffman,Juice,Grocery,5,1049.93,2025-03-17
+1878,Brittany Campbell,Blender,Home,3,1443.66,2024-12-13
+1879,David Castillo,Self-help,Books,5,349.46,2024-07-18
+1880,Darius Sweeney,Lipstick,Beauty,1,1354.61,2025-01-29
+1881,Derrick Johnson,Smartphone,Electronics,1,256.97,2024-11-03
+1882,Edwin Valdez,Toaster,Home,1,1412.06,2024-11-01
+1883,Emily Smith,Slippers,Footwear,2,183.4,2025-03-18
+1884,Ms. Lisa Brown DDS,Novel,Books,4,1384.17,2024-07-23
+1885,John Moore,Juice,Grocery,5,789.6,2024-08-07
+1886,Mr. Alexander Brandt,Jeans,Apparel,3,1134.48,2025-02-22
+1887,Jason Marsh,Self-help,Books,1,1174.29,2024-09-17
+1888,Zachary Rodriguez,Board Game,Toys,5,1270.98,2024-09-07
+1889,Victor Garrett,Pasta,Grocery,4,921.13,2025-04-11
+1890,Patrick Martin,T-shirt,Apparel,5,434.05,2025-02-20
+1891,Casey Hinton,Blender,Home,3,1142.46,2024-08-04
+1892,Kyle Barnes,Shoes,Footwear,3,318.91,2025-02-13
+1893,Samantha Smith,Comics,Books,3,16.71,2024-09-25
+1894,Amy Perez,Biography,Books,3,1474.0,2024-12-15
+1895,Nicole Steele,Smartwatch,Electronics,4,592.09,2025-06-04
+1896,Anthony Hansen,Jacket,Apparel,3,1255.48,2025-06-12
+1897,Joshua Patterson,Boots,Footwear,3,1440.41,2025-07-03
+1898,John Gutierrez,Puzzle,Toys,3,350.57,2025-07-07
+1899,Alfred Pena,Snacks,Grocery,5,761.04,2025-03-24
+1900,Paula Johnston,Shirt,Apparel,4,1430.57,2025-05-23
+1901,Barry Nash,Biography,Books,1,396.29,2024-09-13
+1902,Lauren Martin,Action Figure,Toys,1,1373.43,2025-05-31
+1903,Alicia Mckenzie,T-shirt,Apparel,1,196.77,2024-11-12
+1904,Alyssa Smith,Sandals,Footwear,4,876.42,2024-12-29
+1905,Michael Baker,Cookbook,Books,3,483.06,2025-06-24
+1906,Gregory Green,Lamp,Home,4,450.92,2024-08-06
+1907,Nicole Henderson,Cookbook,Books,2,366.24,2025-06-07
+1908,Julie Parsons,Sandals,Footwear,3,89.76,2025-06-08
+1909,Cory Johnson,Snacks,Grocery,4,1114.97,2024-09-06
+1910,Carl Mcdonald,Perfume,Beauty,2,444.43,2024-08-20
+1911,Jasmine Ellison,Laptop,Electronics,2,318.08,2024-10-03
+1912,Melanie Proctor,Sneakers,Footwear,3,703.2,2025-03-03
+1913,Elizabeth Chavez,Shoes,Footwear,4,364.26,2025-06-21
+1914,Kristina Ball,Foundation,Beauty,4,313.09,2024-09-16
+1915,Jennifer Simmons,Jeans,Apparel,2,372.16,2025-04-04
+1916,Robert Suarez,T-shirt,Apparel,5,75.92,2025-07-16
+1917,Justin Brown,Shoes,Footwear,3,1272.69,2024-12-26
+1918,Tiffany Williams,Pasta,Grocery,1,1277.25,2025-05-28
+1919,Ronald Matthews,Lipstick,Beauty,4,831.11,2024-09-19
+1920,Stephanie Jennings,Sneakers,Footwear,3,828.09,2025-04-30
+1921,Jeremy Clark,Shirt,Apparel,4,706.35,2025-02-25
+1922,Dean Weaver,Lamp,Home,1,1387.26,2025-04-29
+1923,Richard Wright,Snacks,Grocery,3,1235.39,2024-10-29
+1924,Eileen Lambert,Slippers,Footwear,4,1037.27,2024-08-14
+1925,Stephanie Odom,Shampoo,Beauty,3,855.18,2024-11-14
+1926,Anthony Lopez,Doll,Toys,5,258.93,2025-04-23
+1927,Erica Adams,Boots,Footwear,1,20.69,2024-08-13
+1928,Linda Ball,Snacks,Grocery,2,1082.03,2024-11-29
+1929,Rebecca Meyer,Slippers,Footwear,5,1111.38,2024-10-20
+1930,Autumn Rich,Puzzle,Toys,1,156.32,2025-06-22
+1931,Chris Garcia,Boots,Footwear,3,514.47,2024-08-01
+1932,Nicole Howard,Moisturizer,Beauty,4,556.86,2025-02-10
+1933,Richard Lam,Toaster,Home,5,730.34,2025-07-03
+1934,Margaret Boyd,Sandals,Footwear,5,574.79,2025-04-07
+1935,Vanessa Wolf,Comics,Books,2,1165.25,2024-08-30
+1936,Jose Buckley,Self-help,Books,3,1187.75,2025-03-13
+1937,Kristin Cohen,Blender,Home,5,1122.04,2025-07-04
+1938,Dawn Perkins,Shampoo,Beauty,2,488.71,2025-04-17
+1939,Cody Rodriguez,Sneakers,Footwear,4,372.56,2025-06-30
+1940,Justin Vang,Lipstick,Beauty,1,1091.78,2025-01-22
+1941,Melody Velazquez,Self-help,Books,3,1313.39,2025-03-08
+1942,David Patton,Vacuum Cleaner,Home,2,740.17,2024-09-29
+1943,Zachary Russell,Dress,Apparel,2,541.95,2025-04-19
+1944,Patricia Mclaughlin,Cookbook,Books,5,256.4,2025-06-30
+1945,Austin Olson,Sneakers,Footwear,1,1245.79,2025-06-28
+1946,Allison Robinson,Perfume,Beauty,5,143.46,2025-01-19
+1947,Rhonda Gonzalez,Lipstick,Beauty,1,1447.59,2025-07-03
+1948,James Stewart,Comics,Books,3,1126.7,2025-06-06
+1949,Stephanie Torres,Smartphone,Electronics,3,739.92,2025-03-03
+1950,Kevin Guerra II,Snacks,Grocery,5,712.79,2024-07-16
+1951,Logan Hall,Sandals,Footwear,4,1184.89,2024-11-08
+1952,Ann Levy,Lamp,Home,5,1164.33,2024-08-16
+1953,Jennifer Hunter,Action Figure,Toys,1,720.36,2024-12-31
+1954,Jerry Vincent,Lentils,Grocery,2,1050.5,2025-05-23
+1955,Jennifer Ward,Perfume,Beauty,3,480.08,2025-02-11
+1956,Jennifer Bryant,Board Game,Toys,1,1448.8,2025-04-23
+1957,Nicole Allen,Cookbook,Books,5,705.9,2025-07-02
+1958,Patricia Smith,Doll,Toys,2,1168.45,2024-08-26
+1959,Richard Brown,Shampoo,Beauty,2,166.91,2025-06-22
+1960,Brian Barnes DVM,Boots,Footwear,1,248.41,2024-09-24
+1961,Christopher Roberts,Action Figure,Toys,1,244.23,2025-03-25
+1962,Rick Proctor,Smartphone,Electronics,4,1077.86,2025-04-23
+1963,Joy Villarreal,Sandals,Footwear,3,23.57,2024-08-18
+1964,Daniel Velez,Action Figure,Toys,4,1188.98,2025-04-30
+1965,Derek Smith,Tablet,Electronics,4,104.46,2025-03-03
+1966,Laura Medina,Headphones,Electronics,5,964.34,2024-12-24
+1967,Christian Kemp,Shoes,Footwear,3,985.64,2024-12-19
+1968,Daniel Kennedy,Lipstick,Beauty,5,167.52,2025-02-10
+1969,Kelly Novak,Pasta,Grocery,3,260.56,2025-01-09
+1970,Tiffany Anderson,Novel,Books,2,113.93,2025-03-19
+1971,Phyllis Poole,Juice,Grocery,1,814.79,2024-12-23
+1972,Shannon Gilbert,Headphones,Electronics,4,664.43,2024-09-27
+1973,Stacy Thompson,Toaster,Home,4,213.84,2025-07-13
+1974,Jordan Morris,Coffee Maker,Home,2,403.21,2024-08-18
+1975,Louis Gould,Shoes,Footwear,4,378.64,2025-01-23
+1976,Samuel Chapman,Board Game,Toys,3,543.99,2025-07-11
+1977,James Moore,Boots,Footwear,3,951.24,2024-12-13
+1978,Lisa Johnson,Puzzle,Toys,4,605.66,2025-04-11
+1979,Eric Dyer,Sneakers,Footwear,3,885.37,2024-09-28
+1980,Jennifer Blanchard,Headphones,Electronics,4,809.11,2025-02-19
+1981,John Williams,Puzzle,Toys,5,369.35,2025-05-10
+1982,Michael Moore,Rice,Grocery,4,457.8,2025-02-10
+1983,Kathy Long,Coffee Maker,Home,3,762.13,2024-10-31
+1984,William Garcia,Shoes,Footwear,2,511.73,2024-10-24
+1985,Susan Bailey,Tablet,Electronics,5,396.52,2025-03-05
+1986,Jason Brown,Novel,Books,1,634.91,2024-08-17
+1987,Mary Ortega,Puzzle,Toys,1,960.72,2025-04-17
+1988,Jamie Webb,Blender,Home,2,560.67,2024-08-21
+1989,Julie Thomas,T-shirt,Apparel,4,274.54,2025-05-15
+1990,Timothy Boyd,Snacks,Grocery,4,287.42,2024-09-17
+1991,Juan Benson,Lipstick,Beauty,4,636.02,2024-11-11
+1992,Harold Dean,Sneakers,Footwear,3,1168.09,2025-03-28
+1993,Jesse Jones,Boots,Footwear,5,33.28,2025-04-18
+1994,Megan Lopez,Board Game,Toys,4,465.43,2024-10-19
+1995,Kerry Graves,Doll,Toys,5,887.06,2025-01-18
+1996,Melissa Duncan,Lamp,Home,3,1499.23,2024-11-24
+1997,Tracy Johnson,Foundation,Beauty,5,821.35,2024-12-14
+1998,Scott James,Toaster,Home,5,849.93,2024-10-02
+1999,Gerald Rios,T-shirt,Apparel,3,489.9,2025-05-12
+2000,Joshua Mahoney,Puzzle,Toys,2,1276.79,2025-02-16
